@@ -15,7 +15,7 @@
         <module>mydubbo.consumer</module>
     </modules>
 	<!-- 一条注释 -->
-	<!-- zj add -->
+	<!-- zj add start -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
