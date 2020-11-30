@@ -22,6 +22,7 @@
 	<!-- zs add data -->
 	<!-- master add data2 -->
 	<!-- zs add data2-->
+	<!-- local commit to remote-->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
